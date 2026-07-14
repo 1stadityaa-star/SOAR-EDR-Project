@@ -10,7 +10,8 @@ The goal is to automatically notify analysts of malicious activity and allow the
 
 ## Architecture Diagram
 
-![Architecture](../screenshots/architecture.png)
+<img width="3464" height="3464" alt="Picsart_26-07-14_20-52-07-258 jpg" src="https://github.com/user-attachments/assets/33a6c67c-ae52-447a-96f5-382719a494f8" />
+
 
 ---
 

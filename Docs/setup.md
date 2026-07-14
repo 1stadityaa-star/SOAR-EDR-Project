@@ -18,6 +18,8 @@
 ## 3. Create a Detection Rule
 - Create a D&R rule to detect malicious process execution (e.g., LaZagne).
 - Configure the rule to trigger a webhook.
+- <img width="1920" height="1080" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/7782b17d-0b95-4924-b91a-d97f908c7ba6" />
+
 
 ## 4. Configure Tines
 - Create a new Story.
